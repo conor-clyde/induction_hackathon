@@ -1,0 +1,20 @@
+{
+  "Title": "Gosu Experiment",
+  "Version": 2,
+  "Name": "induction_hackathon",
+  "SourcePath": [  ],
+  "BackingSource": [  ],
+  "RunConfigs": [  ],
+  "MruRunConfig": null,
+  "Settings": [
+    {
+      "$construct_type": "editor.settings.CompilerSettings",
+      "_params": {
+        "$construct_type": "editor.settings.CompilerSettingsParameters",
+        "_sourceBased": 1,
+        "_ouputPath": "classes"
+      }
+    }
+  ],
+  "MruSettings": null
+}
